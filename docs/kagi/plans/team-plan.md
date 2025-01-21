@@ -1,5 +1,5 @@
 # Kagi Team plans
-
+srryyy
 Our [Kagi Team plans](https://kagi.com/pricing?plan=team) empower organizations with premium, ad-free search capabilities while maintaining complete privacy and control.
 Choose between Professional and Ultimate tiers for your team members, unlocking powerful tools like [The Assistant](../ai/assistant.md) for LLM-powered research,
 [Summarizer](../ai/summarize-page.md) for quick content analysis, and shared search customizations—all managed through a centralized billing and administration portal.
